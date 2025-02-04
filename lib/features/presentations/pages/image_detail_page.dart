@@ -1,7 +1,5 @@
 import 'package:floc_app/data/floc_image_model.dart';
-import 'package:floc_app/features/presentations/blocs/image_bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 
 class ImageDetailPage extends StatelessWidget {
   final FImage image;

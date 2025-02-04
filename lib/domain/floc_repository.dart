@@ -1,4 +1,3 @@
-import 'package:floc_app/data/floc_data_source.dart';
 import 'package:floc_app/data/floc_image_model.dart';
 
 // this is the repository interface

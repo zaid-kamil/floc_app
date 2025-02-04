@@ -1,8 +1,7 @@
-import 'package:bloc/bloc.dart';
 import 'package:floc_app/data/floc_image_model.dart';
 import 'package:floc_app/domain/floc_repository.dart';
 import 'package:flutter/material.dart';
-import 'package:meta/meta.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 
 part 'image_event.dart';
 
@@ -11,7 +10,7 @@ part 'image_state.dart';
 class ImageBloc extends Bloc<ImageEvent, ImageState> {
   final FlocRepository repository;
 
-  ImageBloc(this.repository) : super(ImageInitial()) {;
+  ImageBloc(this.repository) : super(ImageInitial()) {
     on<LoadImages>(_onLoadImages);
     on<SearchImages>(_onSearchImages);
     on<FilterImagesByCategory>(_onFilterImagesByCategory);

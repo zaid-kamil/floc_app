@@ -1,8 +1,7 @@
-import 'package:floc_app/data/floc_image_model.dart';
+import 'package:floc_app/features/presentations/blocs/image_bloc.dart';
 import 'package:floc_app/features/presentations/pages/image_detail_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:floc_app/features/presentations/blocs/image_bloc.dart';
 
 class FlocSearchBar extends StatelessWidget {
   const FlocSearchBar({super.key});
