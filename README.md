@@ -5,10 +5,9 @@
 
 [!https://youtube.com/shorts/j20fmwIrIRQ?feature=share](https://youtube.com/shorts/j20fmwIrIRQ?feature=share)
 
-### screenshot
-![image](screenshots/list.png)
-![image](screenshots/search.png)
-![image](screenshots/view.png)
+### screenshot 
+![image](screenshots/list.png)|![image](screenshots/search.png)|![image](screenshots/view.png)
+
 A BLoC-based Flutter project.
 
 ## Getting Started
