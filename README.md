@@ -6,7 +6,7 @@
 [https://youtube.com/shorts/j20fmwIrIRQ?feature=share](https://youtube.com/shorts/j20fmwIrIRQ?feature=share)
 
 ### screenshot 
-<img src="screenshots/list.png" width="400"/>|<img src="screenshots/search.png" width="400"/>|<img src="screenshots/view.png" width="400"/>
+<img src="screenshots/list.png" width="200"/><img src="screenshots/search.png" width="200"/><img src="screenshots/view.png" width="200"/>
 
 A BLoC-based Flutter project.
 
