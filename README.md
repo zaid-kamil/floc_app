@@ -3,10 +3,10 @@
 
 # video link
 
-[!https://youtube.com/shorts/j20fmwIrIRQ?feature=share](https://youtube.com/shorts/j20fmwIrIRQ?feature=share)
+[https://youtube.com/shorts/j20fmwIrIRQ?feature=share](https://youtube.com/shorts/j20fmwIrIRQ?feature=share)
 
 ### screenshot 
-![image](screenshots/list.png)|![image](screenshots/search.png)|![image](screenshots/view.png)
+<img src="screenshots/list.png" width="400"/>|<img src="screenshots/search.png" width="400"/>|<img src="screenshots/view.png" width="400"/>
 
 A BLoC-based Flutter project.
 
