@@ -1,38 +1,46 @@
+# FLoC App
 
-# floc app
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-# video link
+## 🚀 A Flutter BLoC App
 
-[https://youtube.com/shorts/j20fmwIrIRQ?feature=share](https://youtube.com/shorts/j20fmwIrIRQ?feature=share)
+Welcome to FLoC App, an innovative image display application created to demonstrate the BLoC pattern in Flutter.
 
-### screenshot 
+[![Watch the Video](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/j20fmwIrIRQ?feature=share)
+
+## 📸 Screenshots
+
 <img src="screenshots/list.png" width="200"/> <img src="screenshots/search.png" width="200"/> <img src="screenshots/view.png" width="200"/>
 
-A BLoC-based Flutter project.
+## 📝 Description
 
-## Getting Started
+FLoC App is an image application that displays images from local assets. It is built to explain the BLoC (Business Logic Component) pattern in Flutter, making it simpler to manage state in your Flutter applications.
 
-This is image app that display images from local assets. This project is built for explaining the BLoC pattern in Flutter.
+## 🛠️ Getting Started
 
 ### Prerequisites
 
+Ensure you have the following installed:
 - [Flutter](https://flutter.dev/docs/get-started/install)
 - [Dart](https://dart.dev/get-dart)
 
 ### Installation
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/floc_app.git
-   ```
+    ```sh
+    git clone https://github.com/zaid-kamil/floc_app.git
+    ```
 2. Navigate to the project directory:
-   ```sh
-   cd floc_app
-   ```
+    ```sh
+    cd floc_app
+    ```
 3. Get the dependencies:
-   ```sh
-   flutter pub get
-   ```
+    ```sh
+    flutter pub get
+    ```
 
 ### Running the App
 
@@ -41,7 +49,7 @@ To run the app on an emulator or physical device, use:
 flutter run
 ```
 
-### Project Structure
+## 📂 Project Structure
 
 - `lib/main.dart`: Entry point of the application.
 - `lib/features/presentations/pages/image_list_page.dart`: Main page displaying the list of images.
@@ -54,4 +62,6 @@ flutter run
 - `lib/data/repositories/floc_repo.dart`: Abstract repository for fetching images.
 - `lib/domain/floc_repository.dart`: Interface for the repository.
 
-build with ❤️ by zaid-kamil(www.socialmistry.com)
+## 👨‍💻 Author
+
+Built with ❤️ by [Zaid Kamil](https://www.socialmistry.com)
